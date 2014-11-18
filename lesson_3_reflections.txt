@@ -15,3 +15,6 @@ This allows yoy to work offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I'll try using dropbox maybe. The learning curve can be easier, but I think it would be harder to keep
 different contribuitors synced and conflict-free.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I need another branch to work on, keeping the master branch as a production branch without possible errors.
