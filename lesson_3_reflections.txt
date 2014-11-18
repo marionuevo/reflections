@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 A fork is a clone made on the server.
 A clone is a copy of an entire repo made locally or between remote and lcoal machine.
 A branch is a new target for a group of commits, inside a repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This allows yoy to work offline.
