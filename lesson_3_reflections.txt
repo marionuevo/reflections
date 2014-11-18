@@ -11,3 +11,7 @@ A branch is a new target for a group of commits, inside a repo.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This allows yoy to work offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I'll try using dropbox maybe. The learning curve can be easier, but I think it would be harder to keep
+different contribuitors synced and conflict-free.
